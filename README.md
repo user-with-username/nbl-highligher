@@ -1,7 +1,3 @@
-# VSCode-Luau
+# NBL Highlighter
 
-Basic syntax highlighting support for Roblox Lua (Luau). Does not include any snippets or fancy language features at this time.
-
-## Features
-
-- Syntax highlighting for Luau
+This is a fork of amazing [Vscode-Luau](https://github.com/Dekkonot/vscode-luau) with .luau files support

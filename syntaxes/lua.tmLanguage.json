@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
-	"name": "Roblox Lua/Luau",
+	"name": "NB Lua/Luau",
 	"patterns": [
 		{
 			"begin": "\\b(?:(local)\\s*)?(function)\\s*([a-zA-Z_]\\w*(?:[.:]([a-zA-Z_]\\w*))*)?\\(",
